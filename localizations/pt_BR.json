@@ -324,7 +324,7 @@
     "Sample guidance scale": "Escala de guiade amostragem",
     "Sample steps": "Passos de amostragem",
     "Advanced": "Avançado",
-    "Use CPU Only (SLOW)": "Usa somente a CPU(LENTO)",
+    "Use CPU Only (SLOW)": "UsaR somente a CPU(LENTO)",
     "Don't cache latents": "Não armazenar latentes no cache ",
     "Train Text Encoder": "Treinar Codificador de Texto",
     "Use 8bit Adam": "Usa 8bit Adam",
